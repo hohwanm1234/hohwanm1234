@@ -16,8 +16,7 @@
 
 ## About Me
 * Moon Ho Hwan (29)
-* 수원 영덕 고등학교 / 순청향대학교 컴퓨터 공학과 졸업
-* 육군 병장 만기 전역
+
 ## About Specification
 * 정보처리기사(필기) 2020.07 합격
 * 커머스톤 컨설팅 2019.03.18 ~ 현재
@@ -66,6 +65,10 @@
 * 2022.02 ~ 2022.04
 * EAI/ESB 개발
 * PostgreDB / MSSQLDB / SAP Adapter 이용
-
+#### 현대 오토에버 DIH 개발
+* 2022.04 ~ 2022.12
+* Camel 기반의 Interface 개발
+* 리눅스 환경의 통신
+* 솔루션 수정 개발(Spring) 및 업데이트
 
 <p align="right">(<a href="#top">back to top</a>)</p>
