@@ -69,6 +69,6 @@
 * 2022.04 ~ 2022.12
 * Camel 기반의 Interface 개발
 * 리눅스 환경의 통신
-* 솔루션 수정 개발(Spring) 및 업데이트
+* 솔루션 수정 개발(Spring) 및 업데이트 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
