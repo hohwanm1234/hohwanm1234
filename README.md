@@ -74,11 +74,18 @@
 
 #### 교원 차세대 구축 - 인터페이스
 * 2023.01 ~
+* Java 기반의 Interface 개발
+* EAI 솔루션 개발/운영 및 EAI 패턴 정립
+* EAI 서비스 개발
 
 #### 교원 차세대 구축 - 공통 개발
 * 2023.01 ~
+* Frontend - Vue를 기반으로 한 컴포넌트 및 화면단 개발
+* Backend - Spring을 기반으로 한 각종 서비스 개발 및 화면 생성기 자체 개발
 
 #### 교원 차세대 구축 - 모바일 웹 앱 개발
 * 2023.01 ~
+* Frontend - Vue를 기반으로 한 모바일 화면단 개발
+* Backend - 웹앱으로써, Spring을 기반으로 한 Backend 연동
  
 <p align="right">(<a href="#top">back to top</a>)</p>
