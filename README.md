@@ -15,7 +15,7 @@
 <p align='center'> 맡은 바에 최선을 다하자! </p>
 
 ## About Me
-* Moon Ho Hwan (29)
+* Moon Ho Hwan (30)
 
 ## About Specification
 * 정보처리기사(필기) 2020.07 합격
